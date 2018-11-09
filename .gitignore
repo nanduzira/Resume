@@ -1,0 +1,9 @@
+resume-latex/*.ttf
+resume-latex/*.log
+resume-latex/*.otf
+resume-latex/*.aux
+resume-latex/*.xml
+resume-latex/*.gz
+resume-latex/*.bib
+resume-latex/*.out
+resume-latex/*.bcf
